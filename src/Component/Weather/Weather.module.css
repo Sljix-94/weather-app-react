@@ -1,0 +1,18 @@
+.container {
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.header {
+  display: flex;
+  align-items: center;
+}
+.header img {
+  width: 120px;
+}
+.temp {
+  font-weight: bold;
+  font-size: 24px;
+}
